@@ -29,7 +29,5 @@ Build the project.
 Run the executable to start the system.
 All SFML libraries should be linked correctly in the IDE.
 👩‍💻 Authors
-Mahnoor Naseer
-Sarah Naseer
 Merab Aijaz
 
